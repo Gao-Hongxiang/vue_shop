@@ -389,17 +389,5 @@ export default {
 </script>
 
 <style lang="less" scoped>
-.el-breadcrumb {
-  margin-bottom: 10px;
-}
-.el-card {
-  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.13) !important;
-}
-.el-table {
-  margin-top: 10px;
-  font-size: 12px;
-}
-.el-pagination {
-  margin-top: 10px;
-}
+
 </style>
